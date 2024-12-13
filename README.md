@@ -15,8 +15,9 @@
 1. Download the `Ballistic.jar` file.
 2. Place the `.jar` file into the `plugins` folder of your Minecraft server.
 3. Restart your server.
-4. Configure the plugin by editing the `config.yml` file to add your preferred maps and their chances.
 5. Start playing 5v5 matches with your players!
+
+## Config
 
 ## Commands
 
